@@ -69,9 +69,9 @@ Pretendo me tornar uma profissional de muita competência e valor, por isso, est
 
 ## :runner: Formação Complementar
 
-**Formação C#**
-12/2020 - Atualmente <br>
+**Formação C#** <br>
 @Alura <br>
+12/2020 - Atualmente <br>
 - Lógica e desenvolvimento com C# e .Net.
 - ASP.NET Core Rest APIs.
 - Windows Forms.
