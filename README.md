@@ -1,61 +1,94 @@
 # Samara Gama
-Desenvolvedor Jr | Entry-Level Software Developer
+Software Engineer
 
-:house: Santo André, São Paulo <br>
-:telephone: (11)98374-2699 <br>
+:house: São Bernardo do Campo, São Paulo <br>
 :envelope: samaragamaferreirads@gmail.com <br>
 :large_blue_circle: [LinkedIn](https://www.linkedin.com/in/samara-gama/)
-:cat: [GitHub](https://github.com/SamaraGama) <br>
+:cat: [GitHub](https://github.com/samaraGamaF)<br>
 
-  Aluna de Tecnologia em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia e Professora de Inglês como segunda língua. 
-Atualmente estudando desenvolvimento de software com base no ecossistema .Net, utilizando Ms SQL Server e Serviços Azure, e atuando em demandas de desenvolvimento e suporte técnico como estagiária.
-  Por meio de mentorias excepcionais e experiências profissionais em agências de comunicação e instituições de ensino, conheci e decidi me dedicar aos estudos em desenvolvimento de software, além de desenvolver as soft skills das quais mais me orgulho: empatia, planejamento, comunicação, proatividade e aprendizagem autodidata. 
-
-Pretendo me tornar uma profissional de muita competência e valor, por isso, estou disposta a me desenvolver e adaptar de acordo com a demanda.
+Formada em Tecnologia em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia e em Letras (Português e Inglês) pela Universidade Metodista de São Paulo.
+Atuo como Engenheira de Software na Pier Seguradora, colaborando com um time ágil no desenvolvimento de vários serviços distribuídos.<br>
+Com mais de 3 anos de experiência na área, me aperfeiçoei no desenvolvimento de soluções para front e back-end com diversas linguagens e suas principais bibliotecas, como Ruby, Python, JavaScript e C#.
+Apesar de me orgulhar do conhecimento técnico que conquistei até aqui, sei que não o teria feito sem o apoio de amigos, colegas e líderes que foram meus mentores; por isso, me espelho neles e busco sempre melhorar minhas competências em colaboração, planejamento, análise e autossuficiência, assim como meus conhecimentos relacionados aos negócios.<br>
+Antes de migrar para a área de tecnologia, atuei como Professora de Inglês como Segunda Língua e também como Tradutora.
 
 ## :gear: Experiência
-**Estágio em Desenvolvimento Full Stack (.Net)** <br>
-@Resolutte Tecnologia e Serviços em Telecomunicação <br>
-09/2020 – Atualmente <br>
 
-- Desenvolvimento de soluções baseadas em .Net (Framework, Core e .Net) utilizando a **linguagem C#** e metodologia **SCRUM**. <br> 
-- Manipulação e extração de dados, criação de procedures e funções com SQL (Ms SQL Server e PostgreSQL). <br>
-- Colaboração nas etapas de brainstorming, análise de requisitos e definição de escopo de projetos. <br>
-- Sustentação de aplicações. <br>
-- Suporte N1, análise inicial e coleta de evidências, logs e reprodução de bugs, redação de laudos técnicos. <br>
+**Full Stack Developer** <br>
+@Pier Seguradora <br>
+01/2023 – o momento <br>
+
+- Desenvolvimento de software orientado a objetos, reproduzindo padrões de design de software, como interactor, factory, builder, facade etc, e aplicando boas práticas de desenvolvimento, como DRY e SOLID.<br>
+- Manutenção e criação de novos serviços e microsserviços distribuídos.<br>
+- Implementações de soluções orientadas a eventos (Kafka).<br>
+- Desenvolvimento de testes automatizados de unidade e de integração (TDD).<br>
+- Contribuição nas etapas de discovery, planejamento e refinamento de entregas de software, utilizando metodologias de trabalho ágil.<br>
+- Realização e documentação de testes manuais.<br>
+- Análise, monitoria, resolução e documentação de erros.<br>
+- Redação e revisão de RFCs e ADRs, para descrição e análise de problemas de negócio e sugestão de soluções.<br>
+- Revisão e manutenção de código.<br>
+- Suporte às áreas de negócio.<br>
+
+**Full Stack Developer** <br>
+@GoWorks Tecnologia e Consultoria <br>
+05/2022 – 01/2023 <br>
+
+- Suporte na coleta de requisitos e refinamento de tarefas, segundo a meotodologia SCRUM.<br>
+- Desenvolvimento de APIs RESTful e soluções front-end e back-end.<br>
+- Desenvolvimento, documentação e implementação de componentes de UI com React.<br>
+- Desenvolvimento e documentação de módulos para consumo de APIs RESTful com Redux e SWR.<br>
+- Criação e manipulação de dados e schemas de banco de dados com scripts SQL e ORMs (MS SQL Server, PostgreSQL e MySQL).<br>
+- Testes manuais.<br>
+- Análise, resolução e documentação de erros.<br>
+
+**Junior Full Stack Developer** <br>
+@GoWorks Tecnologia e Consultoria <br>
+05/2021 – 05/2022 <br>
+
+- Desenvolvimento de soluções front-end e back-end.<br>
+- Desenvolvimento de APIs RESTful.<br>
+- Desenvolvimento de Functions e Procedures com T-SQL.<br>
+- Manutenção de dados e schemas de bancos de dados com scripts SQLs e ORMs (MS SQL Server).<br>
+- Análise e resolução de erros.<br>
+
+**Full Stack Development Intern** <br>
+@Resolutte Tecnologia e Serviços em Telecomunicação <br>
+09/2020 – 04/2021 <br>
+
+- Desenvolvimento de soluções baseadas em .Net (.Net Framework e .Net Core) utilizando a linguagem C# e metodologia SCRUM.<br> 
+- Desenvolvimento de Functions, Procedures e Views com SQL (MS SQL Server e PostgresSQL). <br>
+- Desenvolvimento de UIs com Angular. <br>
+- Desenvolvimento de Rotinas de criação, atualização e exportação de dados. <br>
+- Suporte N1: análise e triagem de chamados de suporte, coleta de evidências e logs de erros, reprodução de erros e redação de laudos técnicos. <br>
 - Controle de versionamento de código com Azure DevOps (TFS). <br>
+- Suporte na coleta de requisitos para projetos. <br>
 
 **Instrutor de Inglês como Segunda Língua (EASL)** <br>
 @CCAA (Centro Cultural Anglo Americano) <br>
 01/2017 – 08/2020 <br>
 
-- Preparação e ministração de aulas de inglês e cursos preparatórios para exames internacionais de proficiência, presencialmente e à distância. <br>
-- Planejamento de cronograma escolar. <br> 
-- Aplicação de avaliações escritas e orais. <br> 
-- Acompanhamento pedagógico e monitoria para alunos e pais ou responsáveis. <br>
-
 ## :brain: Conhecimentos
 
 ### Gerais
-- Programação orientada a objetos. <br>
-- Estruturas de dados. <br>
-- Padrões de Desenvolvimento. <br>
-- Arquiteturas MVC e MVVM. <br> 
-- Versionamento de código com GIT e Azure DevOps (TFS). <br>
-- HTML, CSS. <br>
+- Padrões de projetos de software.<br>
+- Arquitetura de software.<br>
+- Test Driven Development.<br>
 - Inglês fluente. <br>
-- Espanhol intermediário. <br>
 
-### Linguagens de Programação e Frameworks
-- C# (.Net, Windows Forms, WPF, ASP.NET, Windows Services). <br>
-- Python (Django). <br>
-- JavaScript (Node.js, React, Angular) <br>
+### Linguagens de Programação e outras ferramentas
+- C# (.Net Core, .Net Framework).<br>
+- Python (Django, Falcon, RQ, SQLAlchemy).<br>
+- JavaScript (Node.js, React, Angular).<br>
+- Ruby (Rails, Karafka, Grape, AASM).<br>
+- Versionamento de código com GIT e Azure DevOps (TFS).<br>
+- Kubernetes.<br>
+- AWS.<br>
 
 ### Bancos de Dados
 - Conceitos BDAdmin (alta Disponibilidade, transações, replicação de bases, performance).<br> 
 - Ms SQL Server. <br>
 - PostgreSQL. <br>
-- MongoDB (básico). <br>
+- MongoDB. <br>
 
 ## :books: Formação
 **Análise e Desenvolvimento de Sistemas** <br> 
@@ -87,14 +120,14 @@ Pretendo me tornar uma profissional de muita competência e valor, por isso, est
 @Rocketseat <br>
 06/2020 <br>
 - Introdução prática ao desenvolvimento de aplicações web. <br>
-- Desenvolvimento de aplicação Web com HTML, CSS, Javascript e Node.js. <br>
+- Desenvolvimento de aplicação Web com Javascript e Node.js. <br>
 [Visitar Repositório: :recycle: EColeta](https://github.com/SamaraGama/EColeta)
 
 **Python: lógica e desenvolvimento** <br>
 @FIT – Faculdade Impacta de Tecnologia <br>
 02/2020 – 05/2020 <br>
 - Introdução aos conceitos de lógica de programação e Orientação a Objetos na linguagem Python. <br>
-- Desenvolvimento de aplicação Web com o Framework Django. <br>
+- Desenvolvimento de aplicação Web com Django. <br>
 
 
 #### :interrobang: Encontrou algum erro?
