@@ -114,14 +114,13 @@ Antes de migrar para a área de tecnologia, atuei como Professora de Inglês com
 @Rocketseat <br>
 01/2021 - Atualmente <br>
 - Introdução e aprofundamento em conceitos de engenharia de software e desenvolvimento de aplicações web (POO, MVC, versionamento, hospedagem). <br>
-- Desenvolvimento de aplicação web com HTML, CSS, JavaScript, Node.js, PostgreSQL, React e React Native. <br>
+- Desenvolvimento de aplicação web com JavaScript, Node.js, PostgreSQL, React e React Native. <br>
 
 **Coding Workshop: Desenvolvimento com JavaScript** <br>
 @Rocketseat <br>
 06/2020 <br>
 - Introdução prática ao desenvolvimento de aplicações web. <br>
 - Desenvolvimento de aplicação Web com Javascript e Node.js. <br>
-[Visitar Repositório: :recycle: EColeta](https://github.com/SamaraGama/EColeta)
 
 **Python: lógica e desenvolvimento** <br>
 @FIT – Faculdade Impacta de Tecnologia <br>
